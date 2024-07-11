@@ -63,7 +63,8 @@ pc는 클라이언트 역할을 하며 장비에 특정 명령어를 전송해�
 
 [read 메서드]
 
-![image](https://github.com/Jiwoon22/modbus_tcp_Communication/assets/51106092/1cc11075-ca8b-4ecb-b553-461ebc832fee)
+![image](https://github.com/Jiwoon22/modbus_tcp_Communication/assets/51106092/3e3eca2f-a61e-4500-a185-6a2b4df26177)
+
 
 read함수는 현재 장치의 데이터를 읽어오는 기능을 합니다.
 그 데이터는 장치의 0번 출력포트에서 7번 출력포트의 데이터에 해당합니다.
